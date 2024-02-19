@@ -2,3 +2,127 @@ https://medium.com/@axelmarcus27/how-to-configure-discourse-on-amazon-web-servic
 
 https://www.mailjet.com/
 for emailg
+https://www.brevo.com/features/email-marketing/
+
+- diet health interminet fasting 
+- Investments and savings like stable money bonds
+	- Fixed Deposit high intrest rate with small 		finance banks
+	- Loan on Mutual funds and stocks with 9-10%
+	- Credit card againt fixed deposit
+	- Bonds oneline purchanse
+	- 
+-  
+
+
+
+D2C brands
+flashify.in
+https://partypropz.com/
+https://www.trustbasket.com/
+https://majesticpure.com/
+https://lilpicks.in/
+https://tramboosports.com/
+
+
+https://enlyft.com/
+https://socialsnowball.io/ affliate marketing
+https://www.triplewhale.com/
+
+
+
+Devops 
+Digital Marketing
+D2C shirts brands
+
+
+
+
+
+
+- affliate marketing goaffpro.com
+- whatsapp automation for customercare aisensy.com
+- Product Reviews judge.me
+- visula collaboration whimsical.com  
+- 
+
+
+
+-ugc influencer
+- barter
+- affliate with influte with code
+- 
+
+content for product pages
+Ai for seo
+chatgpt
+
+image creation 
+- midjourney
+- 
+
+ugc setting 
+
+voice of adam popular on insta fb
+https://cohesive.so/
+https://www.descript.com/
+
+
+
+adyogi
+upriver
+admize
+social beat
+
+
+- Terraform requirements  	
+	-EC2 INSTANCE
+	-CREATE IAM USER WITH ACCESS KEYS
+	-TERRAFORM FILE TO LAUNCH INSTANCE
+centos
+yum install aws-cli  
+---------------------------------------
+teraaform instalation amazon linux
+
+sudo yum install -y yum-utils
+
+sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
+
+sudo yum -y install terraform
+
+terraform -help
+
+terraform -help plan
+----------------------------------------------------
+----------------------------------------------------
+- create terraform file with .tf extension in folder where you want to run
+- in the same folder where you have .tf file run "terraform init"
+- terraform validate 
+	- this validates code and syntax and gives errors if any or give 	successful
+
+- terraform fmt 
+	this chnages the format canonical order style
+
+- terraform plan
+	This gives what all terraform does with script
+- terraform apply
+	this runs the file and initiates the infra
+
+- terraform destroy
+	this destroyes the state of infra created 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
