@@ -1,0 +1,39 @@
+  1  ls
+    2  c
+    3  clear
+    4  alias c='clear'
+    5  vi .bashrc
+    6  sudo mv kops-linux-amd64 /usr/local/bin/kops
+    7  kops version
+    8  nslookup -type=ns
+    9  kops version
+   10  ls\
+   11  ls
+   12  v
+   13  c
+   14  nslookup -type=ns onbattery.in
+   15  kops cluster --name=onbattery.in --state=s3://vpro --zones=us-east-1a,us-east-1b --node-count=2 --node-size=t3.small --master-size=t3.medium --dns-zone=onbattery.in --node-volume-size=8 --master-volume-size=8
+   16  kops create cluster --name=onbattery.in --state=s3://vpro --zones=us-east-1a,us-east-1b --node-count=2 --node-size=t3.small --master-size=t3.medium --dns-zone=onbattery.in --node-volume-size=8 --master-volume-size=8
+   17  kops update cluster --name onbattery.in --state=s3://vpro --yes --admin
+   18  clear
+   19  kops validate cluster --state=s3://vpro
+   20  kubectl get nodes
+   21  clear
+   22  kubectl get nodes
+   23  kops validate cluster --state=s3://vpro
+   24  kubectl get nodes
+   25  kops validate cluster --state=s3://vpro
+   26  kubectl get nodes
+   27  clera
+   28  c
+   29  kops delete cluster --name=onbattery.in --state=s3://vpro --yes
+   30  c
+   31  history>26march2024
+   32  ls
+   33  history
+
+
+
+https://github.com/kubernetes/kops/releases/tag/v1.26.4
+from above link get link address of kops-linux-amd64
+
